@@ -1,0 +1,34 @@
+prebuilt_etc {
+    name: "init.bt_drv.rc",
+    src: "etc/init.bt_drv.rc",
+    vendor: true,
+    sub_dir: "init",
+}
+
+prebuilt_etc {
+    name: "init.fmradio_drv.rc",
+    src: "etc/init.fmradio_drv.rc",
+    vendor: true,
+    sub_dir: "init",
+}
+
+prebuilt_etc {
+    name: "init.gps_drv.rc",
+    src: "etc/init.gps_drv.rc",
+    vendor: true,
+    sub_dir: "init",
+}
+
+prebuilt_etc {
+    name: "init.wlan_drv.rc",
+    src: "etc/init.wlan_drv.rc",
+    vendor: true,
+    sub_dir: "init",
+}
+
+prebuilt_etc {
+    name: "init.wmt_drv.rc",
+    src: "etc/init.wmt_drv.rc",
+    vendor: true,
+    sub_dir: "init",
+}
